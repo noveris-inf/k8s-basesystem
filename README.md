@@ -1,1 +1,1 @@
-# k8s-basesystem
+# kustomize-basesystem
